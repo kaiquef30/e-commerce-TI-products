@@ -8,7 +8,7 @@
 
 This project is an e-commerce system built using modern technologies:
 
-- **Frontend**: React.js, Next.js, Tailwind CSS
+- **Frontend**: React.js, Next.js, Typescript and Tailwind CSS
 - **Backend**: Sanity (CMS)
 - **Payment Gateway**: Stripe
 
@@ -63,5 +63,21 @@ To access the admin panel, go to http://localhost:3333.
 ---
 
 ## Screenshots:
+<img src="https://i.ibb.co/DkppQ4P/240321-23h19m26s-screenshot.png" alt="E-Commerce screen"/>
 
+---
+
+<img src="https://i.ibb.co/2NtSgT4/240321-23h25m08s-screenshot.png" alt="ecommerce screenshot"/>
+
+---
+
+<img src="https://i.ibb.co/85SYMcz/240321-23h28m55s-screenshot.png" alt="ecommerce screenshot"/>
+
+---
+
+<img src="https://i.ibb.co/Vg5ThzH/240321-23h29m26s-screenshot.png" alt="ecommerce screenshot"/>
+
+---
+
+<img src="https://i.ibb.co/SyH1Rf2/240321-23h29m40s-screenshot.png" alt="ecommerce screenshot"/>
 
