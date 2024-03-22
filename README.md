@@ -20,6 +20,7 @@ This project is an e-commerce system built using modern technologies:
 - Shopping cart functionality
 - Seamless checkout experience with Stripe integration
 - Admin panel powered by Sanity CMS
+- Mobile responsiveness for optimal viewing on smartphones and tablets
 
 ---
 
