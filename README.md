@@ -37,7 +37,7 @@ This project is an e-commerce system built using modern technologies:
 ```bash
 1. Clone the repository:
 
-git clone https://github.com/your-username/e-commerce.git
+git clone https://github.com/kaiquef30/e-commerce-TI-products.git
 
 2. Install dependencies:
 
