@@ -57,9 +57,9 @@ npm run dev # or yarn dev
 
 ## Usage:
 
-Access the application at http://localhost:3000.
+Access the application at http://localhost:3000
 
-To access the admin panel, go to http://localhost:3333.
+To access the admin panel, go to http://localhost:3000/studio
 
 ---
 
@@ -81,4 +81,8 @@ To access the admin panel, go to http://localhost:3333.
 ---
 
 <img src="https://i.ibb.co/SyH1Rf2/240321-23h29m40s-screenshot.png" alt="ecommerce screenshot"/>
+
+---
+
+<img src="https://i.ibb.co/bzsxtDW/240322-09h53m53s-screenshot.png" alt="panel screenshot"/>
 
