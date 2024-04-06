@@ -1,7 +1,5 @@
 # E-Commerce Project
 
-<img src="https://accendadigital.com.br/wp-content/uploads/2020/05/accenda-ecommerce.png" alt="E-Commerce Logo" width="100"/>
-
 ---
 
 ## Overview:
