@@ -63,6 +63,6 @@ To access the admin panel, go to http://localhost:3000/studio
 
 ---
 
-<img src="https://i.ibb.co/LJLF9Hc/photoshop-file.jpg" alt="ecommerce screenshot"/>
+<img src="https://i.postimg.cc/qMYqYVhn/photoshop-file.jpg" alt="ecommerce screenshot"/>
 
 
