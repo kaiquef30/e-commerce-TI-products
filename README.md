@@ -64,3 +64,6 @@ To access the admin panel, go to http://localhost:3000/studio
 <img src="https://i.postimg.cc/qMYqYVhn/photoshop-file.jpg" alt="ecommerce screenshot"/>
 
 
+## Autor
+
+- [Kaique Fernando](https://github.com/kaiquef30)
